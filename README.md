@@ -6,7 +6,7 @@ This project is based on The Come Up video on how to automate the process of add
 
 https://www.youtube.com/watch?v=7J_qcttfnJA
 
-## Original Ideias
+## Idea
 
 Taking the previous project as an base, I added the feature of not only add the Liked videos from YT, but giving the choice for the user to put any playlist Id from the Youtube and transform it into a Spotify Playlist.
 

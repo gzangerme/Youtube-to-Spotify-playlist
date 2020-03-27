@@ -2,9 +2,7 @@
 
 This project is based on The Come Up video on how to automate the process of adding your "Liked" music videos on Youtube to a playlist on Spotify.
 
-**Original video on The Come Up Channel**:
-
-https://www.youtube.com/watch?v=7J_qcttfnJA
+[Access to the video of the Original Project](https://www.youtube.com/watch?v=7J_qcttfnJA)
 
 ## The Idea
 

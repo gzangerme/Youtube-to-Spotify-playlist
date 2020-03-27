@@ -22,4 +22,4 @@ Used to get permissions such as creation of playlists,search for musics and add 
 
 - [Youtube DL](https://github.com/ytdl-org/youtube-dl/)
 
-Used to donwload some Youtube data on each video.
+Used to download some Youtube data on each video.

@@ -1,4 +1,4 @@
-# YoutubetoSpotifyPlaylist
+# Using a Youtube playlist to create it on Spotify
 
 This project is based on The Come Up video on how to automate the process of adding your "Liked" music videos on Youtube to a playlist on Spotify.
 
@@ -6,7 +6,7 @@ This project is based on The Come Up video on how to automate the process of add
 
 ## The Idea
 
-Taking the previous project as an base, I added the feature of not only add the Liked videos from YT, but giving the choice for the user to put any playlist Id from the Youtube and transform it into a Spotify Playlist.
+Taking the previous project as a base, I added the feature of not only add the Liked videos from YT, but giving the choice for the user to put any playlist Id from the Youtube and transform it into a Spotify Playlist.
 
 ## Technologies
 
